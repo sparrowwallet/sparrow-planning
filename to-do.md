@@ -24,9 +24,13 @@
 | Bug | Wallet in inconsistent state | https://github.com/sparrowwallet/sparrow/issues/33 | Fixed? |
 | Bug | Abandoned unconfirmed tx causes crash | https://github.com/sparrowwallet/sparrow/issues/74 
 | Bug | Selecting all but one UTXO does not include Other | https://github.com/sparrowwallet/sparrow/issues/115#issue-873570263 | Unclear what this bug is | 
-| Bug | Scaling issue | https://github.com/sparrowwallet/sparrow/issues/117 | Unclear |
 | Bug | native image camera capture library is not being loaded | https://github.com/sparrowwallet/sparrow/issues/87#issuecomment-817359279 | Lack of further information | 
 | Bug | hdCapture crash | https://github.com/sparrowwallet/sparrow/issues/87 | Solved? |
+
+## Check fixed in next release
+| Type | Description | Link | Fix |
+| ---  | ---         | ---  | ---    |
+| Bug | Scaling issue | https://github.com/sparrowwallet/sparrow/issues/117 | https://github.com/sparrowwallet/sparrow/commit/c5b09189df65ce51c340af11429912ff8fd5bc16 |
 
 -----
 
