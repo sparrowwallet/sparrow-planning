@@ -24,9 +24,6 @@
 | ---  | ---         | ---  | ---    |
 | Bug | Wallet in inconsistent state | https://github.com/sparrowwallet/sparrow/issues/33 | Electrum error messaging has been fixed |
 | Bug | Abandoned unconfirmed tx causes crash | https://github.com/sparrowwallet/sparrow/issues/74 | Identify whether problem still exists. Identify whether fix can be applied to bwt and if so talk to shesek. |
-| Bug | Selecting all but one UTXO does not include Other | https://github.com/sparrowwallet/sparrow/issues/115#issue-873570263 | Unclear what this bug is | 
-| Bug | native image camera capture library is not being loaded | https://github.com/sparrowwallet/sparrow/issues/87#issuecomment-817359279 | Lack of further information | 
-| Bug | hdCapture crash | https://github.com/sparrowwallet/sparrow/issues/87 | Solved? |
 
 ## Check fixed in next release
 | Type | Description | Link | Fix |
